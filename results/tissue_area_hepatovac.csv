@@ -1,0 +1,5 @@
+Image,Object ID,Object type,Name,Classification,Parent,ROI,Centroid X µm,Centroid Y µm,Area µm^2,Perimeter µm
+2018SA1.svs,791b2d66-d15f-4ffb-a4ce-ea86186ed864,Annotation,,TISSUE,Root object (Image),Geometry,15749.6,12884.6,417225071.9,724677
+2018SA3.svs,6247417d-a74a-4bd9-a4f9-52a4e04cdb5c,Annotation,,TISSUE,Root object (Image),Geometry,13050.9,9406,154950285.5,420130.9
+2018SA2.svs,f52c791f-f014-41da-b66e-49573344c77c,Annotation,,TISSUE,Root object (Image),Geometry,14933.8,9442,245062471.6,240323.6
+2018SA4.svs,f6764ab5-732c-4aa8-b83a-827581dd1894,Annotation,,TISSUE,Root object (Image),Geometry,12860.5,13957.3,251053530,500299.1

@@ -1,0 +1,4 @@
+INFO: { "name": "2018SA3.svs", "width": 87768, "height": 69789, "resolutions": 4, "sizeC": 3, "pixelWidthMicrons": 0.264317, "pixelHeightMicrons": 0.264317 }
+INFO: { "name": "2018SA2.svs", "width": 116217, "height": 71567, "resolutions": 4, "sizeC": 3, "pixelWidthMicrons": 0.264317, "pixelHeightMicrons": 0.264317 }
+INFO: { "name": "2018SA4.svs", "width": 119970, "height": 87768, "resolutions": 4, "sizeC": 3, "pixelWidthMicrons": 0.264317, "pixelHeightMicrons": 0.264317 }
+INFO: { "name": "2018SA1.svs", "width": 119378, "height": 87768, "resolutions": 4, "sizeC": 3, "pixelWidthMicrons": 0.264317, "pixelHeightMicrons": 0.264317 }
